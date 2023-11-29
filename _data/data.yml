@@ -10,17 +10,17 @@ sidebar:
     # Profile information
     name: Anton Björkman
     tagline: Integration Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: antonidag@hotmail.com
     phone: 070 947 89 31
-    timezone: America/Cancun Timezone
+    timezone: Stockholm, Sweden
     citizenship: Sweden
     website: antonidag.github.io/myblog/ #do not add http://
-    linkedin: alandoe
+    linkedin: anton-björkman-447a1a1b1
     xing:
-    github: anton-björkman-447a1a1b1
+    github: antonidag
     telegram: 
     gitlab:
     bitbucket:
@@ -64,13 +64,7 @@ education:
         university: Malmö University
         time: 2014 - 2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          balblablal
 
 experiences:
     title: Experience
@@ -92,7 +86,7 @@ experiences:
           Develop and maintaining an internal tool used for migrating customers from inriver onPrem to inriver Cloud. Data formats include JSON, and Flat files. Using Microsoft DevOps for versioning and deployment. Supporting several migrations projects in parallel, configuring and making custom adjustments to make a successful migration.
       - role: Technical Consultant
         time: Jan 2021 - Aug 2012
-        company: Amazon, London
+        company: Apsis, Malmö Sweden
         details: |
           Develop and maintaining several Exports applications and customized solutions. Configuring SFTP imports and mapping data. 
           Being a part of pre-sales process and consulting customers in the APSIS Web Services.
@@ -120,22 +114,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -143,9 +121,10 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Anton Björkman
+      - title: Profiling a Prototype Game Engine Based on an
+Entity Component System in C++
+        link: "/essay.pdf"
+        authors: Anton Björkman & Dennis Nilsson
 
 skills:
     title: Skills &amp; Proficiency
