@@ -123,8 +123,8 @@ publications:
     papers:
       - title: Profiling a Prototype Game Engine Based on an
 Entity Component System in C++
-        link: "/essay.pdf"
-        authors: Anton Björkman & Dennis Nilsson
+        link: "/"
+        authors: 'Anton Björkman & Dennis Nilsson'
 
 skills:
     title: Skills &amp; Proficiency
