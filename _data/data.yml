@@ -112,13 +112,11 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My personal projects on the side
     assignments:
-      - title: Velocity
+      - title: Spamtube
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "An automatic tool for video creation. Subscribe on different Sub-Redits and set an scheduling for video uploads. The content features subtitles, voice over, music and related images!  
 
 publications:
     title: Publications
