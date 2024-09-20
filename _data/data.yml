@@ -79,12 +79,12 @@ experiences:
         details: |
           Design and development of custom P2P integrations from POS (Point-Of-Sale) to ERP systems. Data formats would include JSON and Flat Files. Set up CI/CD using GitLab to deploy, running the instance using Docker.
       - role: Technical Specialist
-        time: Jan 2021 - Aug 2012
+        time: Jan 2021 - Aug 2021
         company: inriver, Malmö Sweden
         details: |
           Develop and maintaining an internal tool used for migrating customers from inriver onPrem to inriver Cloud. Data formats include JSON, and Flat files. Using Microsoft DevOps for versioning and deployment. Supporting several migrations projects in parallel, configuring and making custom adjustments to make a successful migration.
       - role: Technical Consultant
-        time: Jan 2021 - Aug 2012
+        time: Jan 2019 - Dec 2020
         company: APSIS, Malmö Sweden
         details: |
           Develop and maintaining several Exports applications and customized solutions. Configuring SFTP imports and mapping data. 
