@@ -73,29 +73,38 @@ experiences:
         company: Epical, Malmö Sweden
         details: |
           •	Design and developed enterprise-grade integrations using Azure Integration Services and virtual networking.
+          
           •	Implemented integration patterns such as Content-Based Routing, Message Transformation, and Publish-Subscribe using Azure Service Bus.
+          
           •	Leveraged Azure API Management to secure and scale APIs, implementing OAuth 2.0 authentication flows, rate limiting, and caching.
+          
           •	Implemented workflow automation and orchestrations using Logic Apps and Function Apps.
       - role: Integration Specialist
         time: Aug 2021 - Sep 2022
         company: Stioo, Stockholm Sweden
         details: |
           •	Designed and developed custom point-to-point (P2P) integrations between POS and ERP systems, implementing HTTP-HTTP and SFTP-based patterns for data exchange.
+          
           •	Established CI/CD pipelines in GitLab to automate deployments, leveraging Docker for containerized applications in the DigitalOcean cloud.
+          
           •	Worked with RESTful APIs and implemented API-first development strategies.
       - role: Technical Specialist
         time: Jan 2021 - Aug 2021
         company: inriver, Malmö Sweden
         details: |
           •	Contributed as a lead in the development of an internal migration tool for transitioning customers from on-premises to an Azure SaaS cloud-based environment.
+          
           •	Transformation processes by extracting data from SQL databases and importing it through the application running on virtual machines. 
+          
           •	Managed concurrent projects, ensuring smooth onboarding to the cloud service.
       - role: Technical Consultant
         time: Jan 2019 - Dec 2020
         company: APSIS, Malmö Sweden
         details: |
           •	Developed and maintained data export applications and customized integration solutions.
+          
           •	Configured and optimized SFTP data transfers, data mapping and transformation.
+          
           •	Acted as a technical advisor during the pre-sales process, guiding developers on implementation strategies, best practices, and efficient use of APSIS Web Services.
 certifications:
       title: Certifications
